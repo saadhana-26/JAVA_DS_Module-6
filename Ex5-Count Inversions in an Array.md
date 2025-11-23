@@ -26,7 +26,7 @@ Program toto Count the number of inversions in an array where inversion is defin
 Developed by: SAADHANA L
 RegisterNumber:  212224060224
 */
-
+~~~
 import java.util.Scanner;
 
 public class CountInversions {
@@ -76,7 +76,7 @@ public class CountInversions {
     }
 }
 
-
+~~~
 
 ## Output:
 <img width="377" height="256" alt="image" src="https://github.com/user-attachments/assets/e4dd96ae-4f71-4d62-897b-cbc7f236dec0" />
