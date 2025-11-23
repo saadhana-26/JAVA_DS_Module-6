@@ -25,7 +25,7 @@ Program Count how many times a number appears in an array recursively.
 Developed by: SAADHANA L
 RegisterNumber:  212224060224
 */
-
+~~~
 import java.util.*;
 public class CountOccurrences {
     static int countOccurrences(int[] arr, int n, int x) {
@@ -54,7 +54,7 @@ public class CountOccurrences {
     }
 }
 
-
+~~~
 
 ## Output:
 <img width="509" height="395" alt="image" src="https://github.com/user-attachments/assets/0240f68d-9977-4e75-af1d-dbcc49c4e7af" />
