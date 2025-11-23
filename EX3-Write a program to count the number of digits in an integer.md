@@ -21,7 +21,7 @@ Program to to count the number of digits in an integer
 Developed by: SAADHANA L
 RegisterNumber:  212224060224
 */
-
+~~~
 import java.util.*;
 public class CountDigits {
 	static int countDigits(int num) {
@@ -40,7 +40,7 @@ public class CountDigits {
 	}
 }
 
-
+~~~
 
 
 ## Output:
