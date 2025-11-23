@@ -30,7 +30,7 @@ Program to ind the nature of resultant matrrix.
 Developed by: SAADHANA L
 RegisterNumber:  212224060224
 */
-
+~~~
 import java.util.*;
 
 public class MatrixAddShort {
@@ -57,7 +57,7 @@ public class MatrixAddShort {
 }
 
 
-
+~~~
 
 ## Output:
 <img width="425" height="624" alt="image" src="https://github.com/user-attachments/assets/3ff3e0d4-23fa-4484-9c9d-067bb6f20eb4" />
